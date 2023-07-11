@@ -1,0 +1,20 @@
+body
+{
+   text-align: center;
+}
+p{
+    font: size 24px; ;
+    color:aquamarine ;
+}
+img{
+    border: 5px solid violet;
+}
+.link {
+    text-decoration: none ;
+    color: violet;
+
+}
+*
+{
+    font-family: 'segoe UI', Tahoma, Geneva, verdan, sans-serif;
+}
